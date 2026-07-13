@@ -25,6 +25,7 @@
 📦 Installation
 
 git clone https://github.com/alex96656/alex_miabot.git
+
 cd YOUR_REPOSITORY
 
 npm install
